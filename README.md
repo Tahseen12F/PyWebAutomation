@@ -2,4 +2,5 @@
 
 ### Dependencies
 
-'pip install pytest pytest-html selenium allure-pytest openpyxl'
+
+`pip install -r requirements.txt`
