@@ -59,7 +59,7 @@ def test_verifyCredentialAndText():
     login.click()  # Click on Login Button
     time.sleep(3)
     verify_text = driver.find_element(By.XPATH, "//div/h2")
-    print(verify_text)
+    print(verify_text)  # Print the text
     assert verify_text.text == "Make Appointment"  # verify the Text
     # allure.attach(driver.get_screenshot_as_png(), name="Screenshot", attachment_type=AttachmentType.PNG)
     driver.quit()
