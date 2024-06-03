@@ -15,6 +15,8 @@ from selenium.webdriver.common.by import By
 
 
 @pytest.mark.run(order=1)
+@allure.title("Verify Login")
+@allure.description("TC1 - Verify that login is working")
 def test_verifyLogin():
     driver = webdriver.Chrome()  # Open/create the Session (POST request)
     driver.get("https://katalon-demo-cura.herokuapp.com/")  # Open the URL
@@ -24,6 +26,8 @@ def test_verifyLogin():
 
 
 @pytest.mark.run(order=2)
+@allure.title("Verify Appointment Btn")
+@allure.description("TC1 - Verify that Button is working")
 def test_verifyAppointmentButton():
     driver = webdriver.Chrome()  # Open/create the Session (POST request)
     driver.get("https://katalon-demo-cura.herokuapp.com/")
@@ -32,6 +36,8 @@ def test_verifyAppointmentButton():
 
 
 @pytest.mark.run(order=3)
+@allure.title("Verify URL")
+@allure.description("TC1 - Verify that URL change is working")
 def test_verifyURLChange():
     driver = webdriver.Chrome()  # Open/create the Session (POST request)
     driver.get("https://katalon-demo-cura.herokuapp.com/")  # Open the URL
@@ -43,6 +49,8 @@ def test_verifyURLChange():
 
 
 @pytest.mark.run(order=4)
+@allure.title("Verify Credential")
+@allure.description("TC1 - Verify the correct Credential")
 def test_verifyCredentialAndText():
     driver = webdriver.Chrome()  # Open/create the Session (POST request)
     driver.get("https://katalon-demo-cura.herokuapp.com/")  # Open the URL
