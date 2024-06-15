@@ -1,7 +1,6 @@
 # Selenium Mini Project #2
 # Open the URL - https://www.idrive360.com/enterprise/login
 # Enter the username, password
-# username - augtest_040823@idrive.com ; Pwd - 123456
 # Verify that Trial is finished and current URL also
 # Add a logic to add Allure Screen for the Trail end.
 from allure_commons.types import AttachmentType
