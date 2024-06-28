@@ -14,7 +14,7 @@ import allure
 
 @pytest.mark.smoke
 @allure.title("Verify Login Page")
-@allure.description("TC1 - Verify that login is working fine and Trial is finished")
+@allure.description("TC1 - Verify that login is working fine and verify Trial is finished and current URL")
 def test_idrive360Login():
     driver = webdriver.Chrome()
     driver.get("https://www.idrive360.com/enterprise/login")
