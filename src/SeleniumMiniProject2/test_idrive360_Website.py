@@ -6,8 +6,8 @@
 from allure_commons.types import AttachmentType
 from selenium import webdriver
 import time
-import pytest
 import allure
+import pytest
 from selenium.webdriver.common.by import By
 
 
