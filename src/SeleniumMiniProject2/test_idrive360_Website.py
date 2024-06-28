@@ -3,7 +3,7 @@
 # Enter the username, password
 # username - augtest_040823@idrive.com ; Pwd - 123456
 # Verify that Trial is finished and current URL also
-# Add a logic to add Allure Screen for the Trail end.
+# Add a logic to add Allure Screen for the Trial end.
 from allure_commons.types import AttachmentType
 from selenium import webdriver
 import time
