@@ -6,10 +6,9 @@
 from allure_commons.types import AttachmentType
 from selenium import webdriver
 import time
-import allure
 import pytest
 from selenium.webdriver.common.by import By
-
+import allure
 
 
 @pytest.mark.smoke
