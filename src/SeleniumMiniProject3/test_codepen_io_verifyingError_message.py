@@ -31,7 +31,7 @@ def test_userloginError():
     btn = driver.find_element(By.XPATH, "//*[contains(text(), 'Submit')]")
     btn.click()
     time.sleep(10)
-    allure.attach(driver.get_screenshot_as_png(), name="empty-username", attachment_type=AttachmentType.PNG)
+    allure.attach(driver.get_screenshot_as_png(), name="empty-username", attachment_type=AttachmentType.PNG)  # allure attach
     assert (driver.find_element(By.XPATH,
                                 "//input[@id='username']/following::small").text == "Username must be at least 3 characters")
     driver.quit()

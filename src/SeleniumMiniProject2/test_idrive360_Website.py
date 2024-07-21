@@ -27,7 +27,7 @@ def test_idrive360Login():
     assert driver.current_url == "https://www.idrive360.com/enterprise/account?upgradenow=true", "Error - Invalid URL"
     header_message = driver.find_element(By.XPATH, "//h5[@class='id-card-title']").text
     print(header_message)
-    assert header_message == "Your free trial has expired", "Error - Invalid message"
+    assert header_message == "Your free trial has expired", "Error - Invalid message" # assertion
     allure.attach(driver.get_screenshot_as_png(), name='Screenshot', attachment_type=AttachmentType.PNG)
     driver.quit()
 
