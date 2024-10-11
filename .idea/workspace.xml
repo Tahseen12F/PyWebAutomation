@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef1ced5e-741d-4afb-acfd-b81bdc4c2657" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Apr22/test_ActionMethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apr22/test_Actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Apr22/test_lab016WebTables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr22/test_03Actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr22/test_04Actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr22/test_lab17Window_iframe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr24/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr24/test_explicitwait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr24/test_fluentwait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr24/test_waitexample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr26/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr26/pyTestdata.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Apr26/test_datadrivenexample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SeleniumMiniProject2/test_idrive360_Website.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeleniumMiniProject2/test_idrive360_Website.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SeleniumMiniProject3/test_codepen_io_verifyingError_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/SeleniumMiniProject3/test_codepen_io_verifyingError_message.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +53,11 @@
     &quot;Python tests.Python tests for test_Lab004.test_vwoLogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab005.test_vwoLogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.Python tests for test_Lab006.test_vwoLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_03Actions.testAction_DragDrop.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_04Actions.testAction_DragDrop.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_ActionMethods.test_actionsClass.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_Actions.test_actionsClass.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_Lab005.test_vwoLogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_Lab008.test_vwoLogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_Lab009.test_vwoLogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_Lab010.test_naviCommand.executor&quot;: &quot;Run&quot;,
@@ -60,19 +68,81 @@
     &quot;Python tests.pytest for test_Lab013.test_usingLocator.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_Lab014.test_vwoLogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_codepen_io_verifyingError_message.test_userloginError.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_datadrivenexample.test_vwo_login.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_explicitwait.test_vwoLoginNegative.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_fluentwait.test_vwoLoginNegative.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_idrive360_Website.test_idrive360Login.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_lab015.test_vwoLogin.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest for test_lab016WebTables.test_webtable.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_lab17Window_iframe.testWin.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_waitexample.test_vwoLoginNegative.executor&quot;: &quot;Run&quot;,
     &quot;Python tests.pytest in test_CuraHerokuapp_appointmentTextVerify.py.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Merging main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.pytest for test_ActionMethods.test_actionsClass">
-    <configuration name="pytest for test_ActionMethods.test_actionsClass" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\91865\PycharmProjects\pythonWebAutomationProject\src\Apr26" />
+      <recent name="C:\Users\91865\PycharmProjects\pythonWebAutomationProject\src\SeleniumMiniProject2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_datadrivenexample.test_vwo_login">
+    <configuration name="pytest for test_datadrivenexample.test_vwo_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonWebAutomationProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Apr26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_datadrivenexample.test_vwo_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_explicitwait.test_vwoLoginNegative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonWebAutomationProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Apr24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_explicitwait.test_vwoLoginNegative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_fluentwait.test_vwoLoginNegative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pythonWebAutomationProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Apr24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fluentwait.test_vwoLoginNegative&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_lab17Window_iframe.testWin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pythonWebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -85,85 +155,34 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_ActionMethods.test_actionsClass&quot;" />
+      <option name="_new_target" value="&quot;test_lab17Window_iframe.testWin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for test_Actions.test_actionsClass" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_waitexample.test_vwoLoginNegative" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pythonWebAutomationProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Apr22" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Apr24" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Actions.test_actionsClass&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_codepen_io_verifyingError_message.test_userloginError" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pythonWebAutomationProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/SeleniumMiniProject3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_codepen_io_verifyingError_message.test_userloginError&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_lab015.test_vwoLogin" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pythonWebAutomationProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Apr22" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab015.test_vwoLogin&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest for test_lab016WebTables.test_webtable" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pythonWebAutomationProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Apr22" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_parameters" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_lab016WebTables.test_webtable&quot;" />
+      <option name="_new_target" value="&quot;test_waitexample.test_vwoLoginNegative&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for test_ActionMethods.test_actionsClass" />
-        <item itemvalue="Python tests.pytest for test_Actions.test_actionsClass" />
-        <item itemvalue="Python tests.pytest for test_lab016WebTables.test_webtable" />
-        <item itemvalue="Python tests.pytest for test_codepen_io_verifyingError_message.test_userloginError" />
-        <item itemvalue="Python tests.pytest for test_lab015.test_vwoLogin" />
+        <item itemvalue="Python tests.pytest for test_datadrivenexample.test_vwo_login" />
+        <item itemvalue="Python tests.pytest for test_fluentwait.test_vwoLoginNegative" />
+        <item itemvalue="Python tests.pytest for test_explicitwait.test_vwoLoginNegative" />
+        <item itemvalue="Python tests.pytest for test_waitexample.test_vwoLoginNegative" />
+        <item itemvalue="Python tests.pytest for test_lab17Window_iframe.testWin" />
       </list>
     </recent_temporary>
   </component>
